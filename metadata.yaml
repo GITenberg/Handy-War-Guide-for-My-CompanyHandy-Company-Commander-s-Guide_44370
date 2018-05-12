@@ -1,0 +1,34 @@
+_repo: Handy-War-Guide-for-My-CompanyHandy-Company-Commander-s-Guide_44370
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44370-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hanguillart, André Godefroy Lionel
+    alias: Hanguillart, Andre Godefroy Lionel
+    gutenberg_agent_id: '42718'
+    url: http://www.gutenberg.org/2009/agents/42718
+  editor:
+    agent_name: Mercier, Louis J. A. (Louis Joseph Alexandre)
+    alias: Mercier, Louis Joseph Alexandre
+    birthdate: 1880
+    gutenberg_agent_id: '42719'
+    url: http://www.gutenberg.org/2009/agents/42719
+description: ''
+gutenberg_issued: '2013-12-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44370'
+  lccn: '18014358'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States. Army -- Officers'' handbooks'
+- !lcsh 'Intrenchments'
+- !lcsh 'Siege warfare'
+- !lcc 'UG'
+title: 'Handy War Guide for My Company: Handy Company Commander''s Guide'
+url: http://www.gutenberg.org/ebooks/44370
